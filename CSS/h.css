@@ -1,0 +1,29 @@
+h1{ text-align: center;
+  color: black;
+}
+h2{ text-decoration: underline;}
+img{
+  width: 5em;
+}
+#box_1 {
+position: absolute;
+top: 0;
+right: 20%;
+bottom: 0;
+left: 0;
+background: #ee3e64;
+}
+
+#box_2 {
+position: absolute;
+top: 0;
+right: 0;
+bottom: 0;
+left: 70%;
+background: #b7d84b;
+}
+ .letra{
+   text-align: center;
+
+
+ }

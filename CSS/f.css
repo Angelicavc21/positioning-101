@@ -1,0 +1,75 @@
+h1{ text-align: center;
+  color: black;
+}
+h2{ text-decoration: underline;}
+img{
+  width: 5em;
+
+  }
+  #box_1 {
+ position: absolute;
+ top: 0;
+ left: 0;
+ width: 200px;
+ height: 200px;
+ background: #ee3e64;
+}
+#box_2 {
+ position: absolute;
+ top: 0;
+ right: 0;
+ width: 200px;
+ height: 200px;
+ background: #44accf;
+}
+#box_3 {
+ position: absolute;
+ bottom: 0;
+ left: 0;
+ width: 200px;
+ height: 200px;
+ background: #b7d84b;
+}
+#box_4 {
+ position: absolute;
+ bottom: 0;
+ right: 0;
+ width: 200px;
+ height: 200px;
+ background: #ebde52;
+}
+ .letra{
+   text-align: center;
+   }
+.cub1{
+     position:absolute;
+     background-color: orange;
+     width:40px;
+    height: 40px;
+    bottom:80px;
+    right: 80px;
+   }
+.cub2{
+  position: absolute;
+  background-color: orange;
+  width:40px;
+ height: 40px;
+ bottom:80px;
+ right: 80px;
+}
+.cub3{
+  position: absolute;
+  background-color: orange;
+  width:40px;
+ height: 40px;
+ bottom:80px;
+ right: 80px;
+}
+.cub4{
+  position: absolute;
+  background-color: orange;
+  width:40px;
+ height: 40px;
+ bottom:80px;
+ right: 80px;
+}

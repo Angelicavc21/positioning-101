@@ -1,0 +1,28 @@
+h1{ text-align: center;
+  color: blank;
+}
+h2{ text-decoration: underline;}
+img{
+  width: 2em;
+
+  }
+
+#box_a {
+	position: absolute;
+	top: 10px;
+	right: 10px;
+	bottom: 10px;
+	left: 10px;
+	background: green;
+}
+#box_b {
+	position: absolute;
+	top: 20px;
+	right: 20px;
+	bottom: 20px;
+	left: 20px;
+	background: white;
+}
+ h2{
+   text-align: center;
+}

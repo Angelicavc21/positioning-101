@@ -1,0 +1,32 @@
+/*color de la pagina*/
+body{
+  background-color: white;
+}
+/*titulo*/
+h1:hover{
+  position:static;
+  }
+/*tabla*/
+.table1{
+display: inline-block;
+ padding bottom: 50px;
+ text-align: center;
+ padding-right: 20px;
+ padding-left: 10px;
+ margin-left: 480px;
+ margin-top: 20px;
+ padding-top: 30px;
+ padding-bottom: 50px;
+position: absolute;
+
+}
+/*encabezad*/
+th{
+  background-color: blue;
+  font-size: 40px;
+}
+/*filas*/
+td{
+  background-color: rgb(161, 144, 238);
+  font-size: 20px;
+}
